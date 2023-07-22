@@ -2,11 +2,11 @@
 
 > A curated list of awesome resources for electronic engineers and hobbyists
 
-Electronic engineering (EE) is the practice of understanding, designing and building electronic circuits. It is often differentiated from electrical engineering in that it mostly deals with low power DC electronic circuits rather than high power AC systems but there is a lot of overlap between electronic and electrical engineering.
+Electronic components are components of electronic devices and small machines and instruments. They are often composed of several parts and can be used interchangeably in similar products. They usually refer to certain parts of industry such as electrical appliances, radio, and instruments. Capacitors, transistors, filaments, springs, etc. are collectively referred to as electronic components. Common ones include diodes.
 
-Experimenting with and building electronic circuits is also a popular hobby and many professional resources are often equally applicable to hobbyists and vice versa.
+Electronic components include: resistors, capacitors, inductors, potentiometers, electronic tubes, radiators, electromechanical components, connectors, discrete semiconductor devices, electro-acoustic devices, laser devices, electronic display devices, optoelectronic devices, sensors, power supplies , Switches, micro-special motors, electronic transformers, relays, printed circuit boards, integrated circuits, various circuits, piezoelectricity, crystals, quartz ceramics and magnetic materials for printed circuit board substrates for electronic functional process-specific materials and parts such as electronic glue (tape) products , Electronic chemical materials and parts.
 
-This list is for websites, services, software, tools and more: everything that you think is awesome in the world of electronic engineering. If you have anything to add please follow the instructions in [contributing.md](contributing.md).
+Electronic components have CE certification in quality internationally by the European Union (EU), UL certification in the United States (US), VDE and TUV certification in Germany and CQC certification in China and other domestic and foreign certifications to ensure the quality of the components.
 
 ## Contents
 
