@@ -31,9 +31,9 @@ The components:
 1.1、Circuit components: diodes and resistors.  
 1.2、Connection components: connectors, sockets, cables, and printed circuit boards.  
 
-2、Devices： Devices are products that change the molecular structure of raw materials during production.
-2.1、Active devices： Active devices are products that consume energy and require an external power source.
-2.2、Discrete devices： bipolar junction transistors, field-effect transistors, thyristors, and semiconductor resistors and capacitors.
+2、Devices： Devices are products that change the molecular structure of raw materials during production.  
+2.1、Active devices： Active devices are products that consume energy and require an external power source.  
+2.2、Discrete devices： bipolar junction transistors, field-effect transistors, thyristors, and semiconductor resistors and capacitors.  
 
 Resistors  
 Resistors are represented in circuits by "R" followed by a number (e.g., R1 represents resistor number 1). Resistors are used in circuits to divide voltage, limit current, and bias transistors.  
