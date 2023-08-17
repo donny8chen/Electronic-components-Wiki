@@ -4,7 +4,7 @@
 
 Electronic components are components of electronic devices and small machines and instruments. They are often composed of several parts and can be used interchangeably in similar products. They usually refer to certain parts of industry such as electrical appliances, radio, and instruments. Capacitors, transistors, filaments, springs, etc. are collectively referred to as electronic components. Common ones include diodes.
 
-Electronic components include: resistors, capacitors, inductors, potentiometers, electronic tubes, radiators, electromechanical components, connectors, discrete semiconductor devices, electro-acoustic devices, laser devices, electronic display devices, optoelectronic devices, sensors, power supplies, Switches, micro-special motors, electronic transformers, relays, printed circuit boards, integrated circuits, various circuits, piezoelectricity, crystals, quartz ceramics and magnetic materials for printed circuit board substrates for electronic functional process-specific materials and parts such as electronic glue (tape) products, Electronic chemical materials, and parts.
+Electronic components include: [resistors](https://chipdatas.com/category/1606-Resistors), [capacitors](https://chipdatas.com/category/1396-Capacitors), [inductors](https://chipdatas.com/category/1419-Inductors-Coils-Transformers), [potentiometers](https://chipdatas.com/category/1544-Digital-Potentiometers), electronic tubes, radiators, electromechanical components, [connectors](https://chipdatas.com/category/1358-Connectors), discrete semiconductor devices, electro-acoustic devices, [laser devices](https://chipdatas.com/category/1585-Laser-Drivers), electronic display devices, optoelectronic devices, [sensors](https://chipdatas.com/category/1723-Sensors), [power supplies](https://chipdatas.com/category/1572-Power-Modules), [Switches](https://chipdatas.com/category/1589-Key-Switch), micro-special motors, electronic [transformers](https://chipdatas.com/category/1426-Current-Transformers), [relays](https://chipdatas.com/category/1832-Relays), printed circuit boards, [integrated circuits](https://chipdatas.com/category/2913-Other-Integrated-Circuits-ICs), various circuits, piezoelectricity, [crystals](https://chipdatas.com/category/1555-Crystals), quartz ceramics and magnetic materials for printed circuit board substrates for electronic functional process-specific materials and parts such as electronic glue (tape) products, Electronic chemical materials, and parts.
 
 Electronic components have CE certification in quality internationally by the European Union (EU), UL certification in the United States (US), VDE and TUV certification in Germany, and CQC certification in China and other domestic and foreign certifications to ensure the quality of the components.
 
@@ -65,26 +65,26 @@ Digital integrated circuit is a digital logic circuit or system that integrates 
 
 **Relay**
 Relay is a kind of electronic control device, which has a control system (also known as input circuit) and a controlled system (also known as output circuit). It is usually used in automatic control circuits. It is actually a kind of “automatic switch” that uses a small current to control a large current. Therefore, it plays the role of automatic adjustment, safety protection, circuit conversion and so on in the circuit. 
-Automotive Relay / Signal Relay  
-Solid State Relay / Intermediate Relay  
-Electromagnetic Relay / Reed Relay  
-Wet Reed Relay / Thermal Relay  
-Stepping Relay / High Power Relay  
-Magnetic Latching Relay / Polarized Relay  
+[Automotive Relay](https://chipdatas.com/category/1835-Automotive-Relays) / [Signal Relay](https://chipdatas.com/category/1836-Signal-Relays)  
+[Solid State Relay](https://chipdatas.com/category/1465-Photoelectric-Thyristor-Solid-State-Relays) / Intermediate Relay  
+Electromagnetic Relay / [Reed Relay](https://chipdatas.com/category/1834-Reed-Relays)  
+[Wet Reed Relay](https://chipdatas.com/category/1834-Reed-Relays) / Thermal Relay  
+Stepping Relay / High [Power Relay](https://chipdatas.com/category/1833-Power-Relays)  
+[Magnetic Latching Relay](https://chipdatas.com/category/1837-Magnetic-Latching-Relays) / Polarized Relay  
 Temperature Relay / Vacuum Relay  
 Time Relay / Hybrid Electronic Relay  
-Delay Relay / Other Relays  
+Delay Relay / [Other Relays](https://chipdatas.com/category/1838-Relay-Sockets-Accessories)  
 
 **Diodes**
 A semiconductor diode, also known as a crystal diode, abbreviated as a diode; it is an electronic component that only transmits current in one direction. It is a kind of device that is composed of a PN junction with corresponding electrode leads and tube shell packaging.  
-Switching Diode / Ordinary Diode  
-Zener Diode / Schottky Diode  
-Bidirectional Trigger Diode / Fast Recovery Diode  
-Photodiode / Damping Diode  
+[Switching Diode](https://chipdatas.com/category/1441-Switching-Diode) / Ordinary Diode  
+[Zener Diode](https://chipdatas.com/category/1437-Zener-Diodes) / [Schottky Diode](https://chipdatas.com/category/1445-Schottky-Barrier-Diodes-SBD)  
+[Bidirectional Trigger Diode](https://chipdatas.com/category/1442-Diacs-Trigger-Diode) / [Fast Recovery Diode](https://chipdatas.com/category/1439-Diodes-Fast-Recovery-Rectifiers)  
+[Photodiode](https://chipdatas.com/category/1455-Photodiodes) / Damping Diode  
 Magnetic Sensitive Diode / Rectifier Diode  
-Light Emitting Diode / Laser Diode  
+Light Emitting Diode / [Laser Diode](https://chipdatas.com/category/1464-Laser-Diodes)  
 Varactor Diode / Detector Diode  
-Other Diodes,
+[Other Diodes](https://chipdatas.com/category/1445-Schottky-Barrier-Diodes-SBD)
 
 **Triodes**
 A triode is a type of vacuum tube that can amplify or generate electrical signals. It has three electrodes inside a glass envelope: a cathode, a grid, and a plate. The cathode is a heated filament that emits electrons. The grid is a wire mesh that controls the amount of electrons that reach the plate. The plate is a metal plate that collects the electrons and produces the output signal.  
@@ -96,7 +96,7 @@ Low-frequency, high-frequency, microwave power transistor/switch transistor
 Photosensitive triode/microwave triode   
 High reverse voltage triode/Darlington triode   
 Photosensitive transistor/low-frequency amplification triode   
-Power switch transistor/other transistors  
+Power switch transistor/[other transistors](https://chipdatas.com/category/1471-Digital-Transistors)  
 
 **Capacitors**
 Capacitors are usually abbreviated as capacitors and are represented by the letter C.  
@@ -105,57 +105,57 @@ Definition 1: Capacitor, as the name suggests, is a “container for electricity
 
 Definition 2: Capacitor, any two insulated and closed conductors (including wires) between them constitute a capacitor. 
 
-Mica capacitor/aluminum electrolytic capacitor  
+Mica capacitor/[aluminum electrolytic capacitor](https://chipdatas.com/category/1405-Aluminum-Electrolytic-Capacitors-Leaded)  
 Vacuum capacitor/paint capacitor  
 Composite dielectric capacitor/glass glaze capacitor  
-Organic film capacitor/conductive plastic potentiometer  
+Organic [film capacitor](https://chipdatas.com/category/1399-Film-Capacitors)/conductive plastic potentiometer  
 Infrared thermistor/gas-sensitive resistor  
-Ceramic capacitor/tantalum capacitor  
-Paper dielectric capacitor/electronic potentiometer  
+[Ceramic capacitor](https://chipdatas.com/category/1409-Ceramic-Disc-Capacitors)/[tantalum capacitor](https://chipdatas.com/category/1398-Tantalum-Capacitors)  
+[Paper dielectric capacitor](https://chipdatas.com/category/1413-Paper-Dielectric-Capacitors)/electronic potentiometer  
 Magnetic sensitive resistor potentiometer/humidity sensitive resistor  
 Photosensitive resistor potentiometer/fixed resistor  
-Variable resistor/row resistor  
-Thermistor/fuse resistor  
-Other resistors/potentiometers  
+[Variable resistor](https://chipdatas.com/category/1607-Variable-Resistors-Potentiometers)/row resistor  
+Thermistor/[fuse](https://chipdatas.com/category/1677-Fuses) resistor  
+[Other resistors](https://chipdatas.com/category/1609-Current-Sense-Resistors-Shunt-Resistors)/potentiometers  
 
 **Connectors**
 It is also called connector, plug, and socket in China. Generally refers to electrical connectors. That is a device that connects two active devices and transmits current or signals.  
-Terminal/wire harness/socket  
-IC socket/fiber optic connector  
-Terminal block/cable connector  
+[Terminal](https://chipdatas.com/category/1377-Screw-terminal)/wire harness/socket  
+[IC socket](https://chipdatas.com/category/1361-IC-Sockets)/[fiber optic connector](https://chipdatas.com/category/1394-Fiber-Optic-Connectors)  
+[Terminal block](https://chipdatas.com/category/1374-Pluggable-System-Terminal-Block)/[cable connector](https://chipdatas.com/category/1378-Circular-Connectors-Cable-Connectors)  
 Printed board connector/computer connector  
 Mobile phone connector/terminal block/wiring base  
-Other connectors  
+[Other connectors](https://chipdatas.com/category/1366-Wire-To-Board-Wire-To-Wire-Connector)  
 
 **Potentiometer** 
-A variable resistor is used for voltage division. On the exposed resistor, there is one or two movable metal contacts. The contact position determines the resistance value between any end of the resistor and the contact.  
+A variable resistor is used for voltage division. On the exposed resistor, there are one or two movable metal contacts. The contact position determines the resistance value between any end of the resistor and the contact.  
 
 Synthetic carbon film potentiometer/straight slide potentiometer  
 Patch potentiometer/metal film potentiometer  
 Solid potentiometer/single turn/multi-turn potentiometer  
 Single link, double link potentiometer/with switch potentiometer  
-Wire wound potentiometer/other potentiometers    
+Wire wound potentiometer/[other potentiometers](https://chipdatas.com/category/1544-Digital-Potentiometers)    
 
 **Fuse Components**
 Temperature switch/temperature fuse  
-Current fuse/fuse holder  
-Self-recovery fuse/other fuse components  
+Current fuse/[fuse holder](https://chipdatas.com/category/1676-Fuse-Holders)  
+Self-recovery fuse/[other fuse components](https://chipdatas.com/category/1675-Resettable-Fuses)  
 
 **Sensors**
 Sensors can sense the specified measurement and convert it into a usable signal according to a certain rule. It is usually composed of sensitive elements and conversion elements.  
 Electromagnetic sensor/sensitive element  
-Photoelectric sensor/fiber optic sensor  
-Gas sensor/humidity sensitive sensor  
-Displacement sensor/vision, image sensor  
-Other sensors  
+Photoelectric sensor/[fiber optic sensor](https://chipdatas.com/category/1744-Fiber-Optic-Laser-Sensors)  
+[Gas sensor](https://chipdatas.com/category/1747-Gas-Sensors)/[humidity sensitive sensor](https://chipdatas.com/category/1725-Temperature-and-Humidity-Sensor)  
+Displacement sensor/[vision](https://chipdatas.com/category/2720-Machine-Vision-Cameras-Sensors), [image sensor](https://chipdatas.com/category/1727-Image-Sensors)  
+[Other sensors](https://chipdatas.com/category/1737-Hall-Sensor)  
 
 **Inductors** 
 The components that can produce an inductive effect are collectively called inductive components, often directly abbreviated as inductors.  
-Magnetic bead/current transformer/voltage transformer  
-Inductor coil/fixed inductor/adjustable inductor  
+Magnetic bead/[current transformer](https://chipdatas.com/category/1426-Current-Transformers)/voltage transformer  
+Inductor coil/fixed inductor/[adjustable inductor](https://chipdatas.com/category/1423-Adjustable-Inductors)  
 Wire wound inductor/non-wire wound inductor  
-Choke inductor (choke coil, choke coil)  
-Other inductors  
+[Choke inductor (choke coil, choke coil)](https://chipdatas.com/category/1434-Wireless-Charging-Coils)  
+[Other inductors](https://chipdatas.com/category/1420-Inductors-SMD)  
 
 **Electroacoustic Devices**
 Electroacoustic device (electroacoustic device): refers to the device that converts electricity and sound to each other, which uses electromagnetic induction, electrostatic induction, or piezoelectric effect to complete the electroacoustic conversion, including loudspeaker, earphone, transmitter, pickup head, and so on. 
@@ -169,7 +169,9 @@ T-iron/magnetic steel/elastic wave
 Drum paper/pressure edge/electroacoustic net cover
 
 **Frequency Components**
-Frequency divider/oscillator/filter, Resonator/frequency modulator/frequency discriminator, Other frequency components
+Frequency divider/[oscillator](https://chipdatas.com/category/1556-Oscillators)/[filter](https://chipdatas.com/category/1657-Bead-Filter-EMI-Optimization)  
+Resonator/frequency modulator/frequency discriminator  
+Other frequency components
 
 **Switching Elements**
 Thyristor/optocoupler/dry reed tube/other switching elements
@@ -180,25 +182,28 @@ Oscilloscope tube/camera tube/projection tube
 Phototube/emitter device/other photoelectric and display devices  
 
 **Magnetic components**
-Magnetic head/aluminum nickel magnetic steel permanent magnetic components, Metal soft magnetic components (powder core)/ferrite soft magnetic components (magnetic core), Ferrite permanent magnetic components/rare earth permanent magnetic components, Other magnetic components
+Magnetic head/aluminum nickel magnetic steel permanent magnetic components  
+Metal soft magnetic components (powder core)/ferrite soft magnetic components (magnetic core)  
+Ferrite permanent magnetic components/rare earth permanent magnetic components  
+Other magnetic components
 
 **Integrated circuit**
-TV IC/audio IC/power module  
+TV IC/[audio IC](https://chipdatas.com/category/1712-Audio-Interface-ICs)/[power module](https://chipdatas.com/category/1572-Power-Modules)  
 DVD player IC/VCR IC/computer IC  
-Communication IC/remote control IC/camera IC  
+[Communication IC](https://chipdatas.com/category/1714-Telecommunication-Interface-ICs)/remote control IC/camera IC  
 Alarm IC/doorbell IC/flashlight IC  
 Electric toy IC/temperature control IC/music IC  
-Electronic organ IC/watch IC/other integrated circuits  
+Electronic organ IC/watch IC/[other integrated circuits](https://chipdatas.com/category/2914-IC-Chips)  
 
 **Electronic hardware parts**
-Contact/contact piece/probe  
-Core/other electronic hardware parts  
+[Contact](https://chipdatas.com/category/1843-Contacts-Springs)/contact piece/probe  
+Core/[other electronic hardware parts](https://chipdatas.com/category/1865-Other-Hardware)  
 
 **Display device**
-Dot matrix/led digital tube/backlight device   
-LCD screen/polarizer/led chip  
-Led display screen/LCD display module  
-Other display devices  
+[Dot matrix](https://chipdatas.com/category/1781-LED-Displays-Dot-Matrix)/led digital tube/[backlight device](https://chipdatas.com/category/1782-Other-Lighting-Drivers)   
+LCD screen/polarizer/LED chip  
+[LED display screen](https://chipdatas.com/category/1778-LED-Display-Drivers)/[LCD display module](https://chipdatas.com/category/1779-LCD-Drivers)  
+[Other display devices](https://chipdatas.com/category/1783-OLED-Drivers)  
 
 
 #### Special-Purpose Materials
@@ -321,14 +326,15 @@ It is usually represented by “Q” plus a number in the circuit, such as Q17 r
    Voltage amplification factor Large Small (less than 1 and close to 1) Large
    Current amplification factor Large (a few tens) Large (a few tens) Small (less than 1 and close to 1)
    Power amplification factor Large (about 30-40 decibels) Small (about 10 decibels) Medium (about 15-20 decibels)
-   Frequency characteristic High-frequency Poor Good,
+   Frequency characteristic High-frequency Poor Good  
 
 **Field Effect Transistor**
-1. Field effect transistor has the advantages of high input impedance and low noise, so it is widely used in various electronic devices. Especially using field effect transistors as the input stage of the whole electronic device, it can achieve the performance that is difficult to achieve by general transistors.
+1. Field effect transistor has the advantages of high input impedance and low noise, so it is widely used in various electronic devices. Especially using field effect transistors as the input stage of the whole electronic device, it can achieve the performance that is difficult to achieve by general transistors.  
 
-2. Field effect transistor is divided into two categories: junction type and insulated gate type. The control principle of both types is the same. The symbols of the two types are:
+2. Field effect transistor is divided into two categories: junction type and insulated gate type. The control principle of both types is the same. The symbols of the two types are:  
 
 3. Comparison between field effect transistor and transistor Field effect transistor is a voltage-controlled device, while a transistor is a current-controlled device. In the case of allowing only a small current to be taken from the signal source, a field effect transistor should be selected; while in the case of low signal voltage and allowing more current to be taken from the signal source, a transistor should be selected. A field effect transistor is a unipolar device that uses majority carriers to conduct electricity, so it is called a unipolar device, while a transistor uses both majority carriers and minority carriers to conduct electricity. It is called a bipolar device. Some field effect transistors can exchange their source and drain, and the gate voltage can be positive or negative, which is more flexible than transistors. Field effect transistors can work under very small currents and very low voltage conditions, and their manufacturing process can easily integrate many field effect transistors on a silicon chip, so field effect transistors are widely used in large-scale integrated circuits.
+   
    3.1, Electronic components: refers to the finished products that do not change the molecular composition during factory production and processing. Such as resistors, capacitors, and inductors. Because it does not produce electrons itself, it has no control and transformation effect on voltage and current, so it is also called a passive device. According to the classification criteria, electronic components can be divided into 11 categories.
    
    3.2, Electronic devices: refers to the finished products that change the molecular structure during factory production and processing. For example, transistors, electron tubes, and integrated circuits. Because it can produce electrons itself, it has control and transformation effects on voltage and current (amplification, switching, rectification, detection, oscillation and modulation, etc.), so it is also called active device. According to the classification criteria, electronic devices can be divided into 12 categories, which can be summarized into two blocks: vacuum electronic devices and semiconductor devices.
